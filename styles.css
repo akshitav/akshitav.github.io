@@ -1,9 +1,6 @@
-styles.css
-
 body {
-	background-color: #ccffff;
+	background-color: #ccffff
 }
-
 h1 {
 	color: black;
 	text-align:center;
@@ -26,43 +23,47 @@ h3 {
 	text-align: center;
 
 }
-
 p {
 	color: black;
 	font-family: "Georgia";
 	font-style: normal;
 	font-size: 15px;
 }
-
 li {
 	color: black;
 	font-family: "Georgia";
 	font-style: normal;
 	font-size: 15px;
 }
-
 a {
 	color: blue;
-	font-family: "Georgia";
+	font-family: "Book Antiqua";
 	font-style: normal;
 	font-size: 17px;
-}
-
-#picture {
 	text-align: center;
 }
-
-#resume {
-	font-size: 17px;
+.image {
+	text-align: center;
 }
-
 .bold {
 	font-weight: bold;
 }
-.center{
-	margin: auto;
-    width: 60%;
+.resume_center{
+	width: 500px;
+	margin: 0 auto;
+	text-align: left;
 }
+
+#links{
+	margin:0 auto;
+	width: 60%;
+	border: 3px solid #330099;
+	padding:10px;
+	text-align: center;
+
+}
+
+
 
 
 
