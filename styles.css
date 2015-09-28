@@ -1,28 +1,28 @@
 styles.css
 
-
 body {
-	background-color: white;
+	background-color: #ccffff;
 }
 
 h1 {
 	color: black;
 	text-align:center;
-	font-family: "Georgia";
+	font-family: "Book Antiqua";
 	font-style: normal;
 	font-size: 40px;
 
 }
 h2 {
 	color: black;
-	font-family: "Georgia";
+	font-family: "Book Antiqua";
 	font-size:30px;
 
 }
 h3 {
 	color: black;
-	font-family: "Georgia";
+	font-family: "Book Antiqua";
 	font-size:20px;
+	text-align: center;
 
 }
 
@@ -33,29 +33,19 @@ p {
 	font-size: 20px;
 }
 
-div a {
+a {
 	color: blue;
 	font-family: "Georgia";
-	font-size: 20px;
-	text-align: center;
-	display: block;
-	margin: 0 auto;
-
-}
-
-.center{
-	width: 500px;
-	margin: 0 auto;
-	text-align: left;
+	font-style: normal;
+	font-size: 15px;
 }
 
 #picture {
 	text-align: center;
 }
-#resume {
-	font-family: "Georgia";
-	color: black;
 
+#resume {
+	font-weight: bold;
 }
 
 
