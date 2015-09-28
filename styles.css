@@ -1,0 +1,62 @@
+styles.css
+
+
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+	text-align:center;
+	font-family: "Georgia";
+	font-style: normal;
+	font-size: 40px;
+
+}
+h2 {
+	color: black;
+	font-family: "Georgia";
+	font-size:30px;
+
+}
+h3 {
+	color: black;
+	font-family: "Georgia";
+	font-size:20px;
+
+}
+
+p {
+	color: black;
+	font-family: "Georgia";
+	font-style: normal;
+	font-size: 20px;
+}
+
+div a {
+	color: blue;
+	font-family: "Georgia";
+	font-size: 20px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+
+}
+
+.center{
+	width: 500px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#picture {
+	text-align: center;
+}
+#resume {
+	font-family: "Georgia";
+	color: black;
+
+}
+
+
+
